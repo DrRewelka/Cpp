@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1480018938 source:e:\c++ workspace\potyczki algorytmiczne\zad3b\main.cpp
+	"cielib.h"
+	"cielib.c"
+	<iostream>
+	<math.h>
+
+1479859988 e:\c++ workspace\potyczki algorytmiczne\zad3b\cielib.h
+
+1479860098 e:\c++ workspace\potyczki algorytmiczne\zad3b\cielib.c
+	<stdio.h>
+	<stdlib.h>
+

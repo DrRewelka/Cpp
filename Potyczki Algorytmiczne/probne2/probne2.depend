@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1479490701 source:e:\c++ workspace\potyczki algorytmiczne\probne2\main.cpp
+	<iostream>
+	"kanapka.h"
+	<cstdio>
+
+1443258344 e:\c++ workspace\potyczki algorytmiczne\probne2\kanapka.h
+	<assert.h>
+	<stdlib.h>
+	<stdio.h>
+
