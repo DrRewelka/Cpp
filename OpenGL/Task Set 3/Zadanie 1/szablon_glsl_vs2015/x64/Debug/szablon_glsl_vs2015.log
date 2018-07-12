@@ -1,0 +1,11 @@
+﻿  szablon_glut.cpp
+  shaders.cpp
+e:\c++ workspace\pwwg\zestaw 3\zadanie 1\szablon_glsl_vs2015\shaders.cpp(24): warning C4244: 'initializing': conversion from 'std::streamoff' to 'unsigned long', possible loss of data
+  Generating Code...
+  szablon_glsl_vs2015.vcxproj -> E:\C++ Workspace\PWWG\Zestaw 3\Zadanie 1\x64\Debug\szablon_glsl_vs2015.exe
+  E:\C++ Workspace\PWWG\Zestaw 3\Zadanie 1\szablon_glsl_vs2015\dlls\x64\DevIL.dll
+  E:\C++ Workspace\PWWG\Zestaw 3\Zadanie 1\szablon_glsl_vs2015\dlls\x64\freeglut.dll
+  E:\C++ Workspace\PWWG\Zestaw 3\Zadanie 1\szablon_glsl_vs2015\dlls\x64\glew32.dll
+  E:\C++ Workspace\PWWG\Zestaw 3\Zadanie 1\szablon_glsl_vs2015\dlls\x64\ILU.dll
+  E:\C++ Workspace\PWWG\Zestaw 3\Zadanie 1\szablon_glsl_vs2015\dlls\x64\ILUT.dll
+  5 File(s) copied
