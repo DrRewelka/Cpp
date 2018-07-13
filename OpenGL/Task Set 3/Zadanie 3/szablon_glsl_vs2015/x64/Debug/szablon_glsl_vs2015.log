@@ -1,0 +1,6 @@
+﻿  szablon_glut.cpp
+e:\c++ workspace\pwwg\zestaw 3\zadanie 2\szablon_glsl_vs2015\szablon_glut.cpp(147): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+szablon_glut.obj : error LNK2019: unresolved external symbol SOIL_load_image referenced in function "int __cdecl TextureFromFile(char const *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?TextureFromFile@@YAHPEBDV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+szablon_glut.obj : error LNK2019: unresolved external symbol SOIL_free_image_data referenced in function "int __cdecl TextureFromFile(char const *,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> >)" (?TextureFromFile@@YAHPEBDV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z)
+./lib/x64\SOIL.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+E:\C++ Workspace\PWWG\Zestaw 3\Zadanie 2\x64\Debug\szablon_glsl_vs2015.exe : fatal error LNK1120: 2 unresolved externals
