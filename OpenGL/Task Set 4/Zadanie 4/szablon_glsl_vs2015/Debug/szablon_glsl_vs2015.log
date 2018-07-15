@@ -1,0 +1,12 @@
+﻿  szablon_glut.cpp
+e:\c++ workspace\pwwg\zestaw 4\zadanie 4\szablon_glsl_vs2015\szablon_glut.cpp(355): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\c++ workspace\pwwg\zestaw 4\zadanie 4\szablon_glsl_vs2015\szablon_glut.cpp(356): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+e:\c++ workspace\pwwg\zestaw 4\zadanie 4\szablon_glsl_vs2015\szablon_glut.cpp(360): warning C4244: 'initializing': conversion from 'GLfloat' to 'int', possible loss of data
+  szablon_glsl_vs2015.vcxproj -> E:\C++ Workspace\PWWG\Zestaw 4\Zadanie 4\Debug\szablon_glsl_vs2015.exe
+  E:\C++ Workspace\PWWG\Zestaw 4\Zadanie 4\szablon_glsl_vs2015\dlls\x86\assimp-vc140-mt.dll
+  E:\C++ Workspace\PWWG\Zestaw 4\Zadanie 4\szablon_glsl_vs2015\dlls\x86\DevIL.dll
+  E:\C++ Workspace\PWWG\Zestaw 4\Zadanie 4\szablon_glsl_vs2015\dlls\x86\freeglut.dll
+  E:\C++ Workspace\PWWG\Zestaw 4\Zadanie 4\szablon_glsl_vs2015\dlls\x86\glew32.dll
+  E:\C++ Workspace\PWWG\Zestaw 4\Zadanie 4\szablon_glsl_vs2015\dlls\x86\ILU.dll
+  E:\C++ Workspace\PWWG\Zestaw 4\Zadanie 4\szablon_glsl_vs2015\dlls\x86\ILUT.dll
+  6 File(s) copied
