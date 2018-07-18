@@ -1,0 +1,10 @@
+﻿  main.cpp
+e:\c++ workspace\pwwg\hidden dragon - projekt pauliny\szablon_glsl_vs2015\main.cpp(442): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  szablon_glsl_vs2015.vcxproj -> E:\C++ Workspace\PWWG\Hidden Dragon - projekt Pauliny\Debug\Hidden_Dragon.exe
+  E:\C++ Workspace\PWWG\Hidden Dragon - projekt Pauliny\szablon_glsl_vs2015\dlls\x86\assimp-vc140-mt.dll
+  E:\C++ Workspace\PWWG\Hidden Dragon - projekt Pauliny\szablon_glsl_vs2015\dlls\x86\DevIL.dll
+  E:\C++ Workspace\PWWG\Hidden Dragon - projekt Pauliny\szablon_glsl_vs2015\dlls\x86\freeglut.dll
+  E:\C++ Workspace\PWWG\Hidden Dragon - projekt Pauliny\szablon_glsl_vs2015\dlls\x86\glew32.dll
+  E:\C++ Workspace\PWWG\Hidden Dragon - projekt Pauliny\szablon_glsl_vs2015\dlls\x86\ILU.dll
+  E:\C++ Workspace\PWWG\Hidden Dragon - projekt Pauliny\szablon_glsl_vs2015\dlls\x86\ILUT.dll
+  6 File(s) copied
