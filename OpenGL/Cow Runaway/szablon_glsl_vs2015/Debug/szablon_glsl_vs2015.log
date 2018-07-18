@@ -1,0 +1,13 @@
+﻿  main.cpp
+e:\c++ workspace\pwwg\projekt na zaliczenie\szablon_glsl_vs2015\main.cpp(446): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  shaders.cpp
+e:\c++ workspace\pwwg\projekt na zaliczenie\szablon_glsl_vs2015\shaders.cpp(24): warning C4244: 'initializing': conversion from 'std::streamoff' to 'unsigned long', possible loss of data
+  Generating Code...
+  szablon_glsl_vs2015.vcxproj -> E:\C++ Workspace\PWWG\Projekt na zaliczenie\Debug\szablon_glsl_vs2015.exe
+  E:\C++ Workspace\PWWG\Projekt na zaliczenie\szablon_glsl_vs2015\dlls\x86\assimp-vc140-mt.dll
+  E:\C++ Workspace\PWWG\Projekt na zaliczenie\szablon_glsl_vs2015\dlls\x86\DevIL.dll
+  E:\C++ Workspace\PWWG\Projekt na zaliczenie\szablon_glsl_vs2015\dlls\x86\freeglut.dll
+  E:\C++ Workspace\PWWG\Projekt na zaliczenie\szablon_glsl_vs2015\dlls\x86\glew32.dll
+  E:\C++ Workspace\PWWG\Projekt na zaliczenie\szablon_glsl_vs2015\dlls\x86\ILU.dll
+  E:\C++ Workspace\PWWG\Projekt na zaliczenie\szablon_glsl_vs2015\dlls\x86\ILUT.dll
+  6 File(s) copied
